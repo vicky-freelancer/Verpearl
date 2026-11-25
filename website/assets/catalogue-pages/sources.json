@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "wood",
+    "title": "Carving Wood",
+    "category": "Ceramics",
+    "filename": "CARVING WOOD.pdf",
+    "pages": 31
+  },
+  {
+    "slug": "satatuario-1",
+    "title": "Satatuario Collection Vol. 1",
+    "category": "Ceramics",
+    "filename": "SATATUARIO COLEECTION VOL-1_600X1200MM.pdf",
+    "pages": 64
+  },
+  {
+    "slug": "satatuario-2",
+    "title": "Satatuario Collection Vol. 2",
+    "category": "Ceramics",
+    "filename": "SATATUARIO COLEECTION VOL-2_600X1200MM.pdf",
+    "pages": 85
+  },
+  {
+    "slug": "surfaces",
+    "title": "Surface Collection",
+    "category": "Ceramics",
+    "filename": "Untitled.pdf",
+    "pages": 69
+  },
+  {
+    "slug": "sanitary",
+    "title": "Velpearl 170 Series",
+    "category": "Sanitaryware",
+    "filename": "VELPEARL - 170 - FB - 10 SET.pdf",
+    "pages": 18
+  },
+  {
+    "slug": "fittings",
+    "title": "Velpearl Fittings",
+    "category": "Fittings",
+    "filename": "VELPEARL FITTINGS - 170 - FB - 10 NOS.pdf",
+    "pages": 6
+  },
+  {
+    "slug": "sinks",
+    "title": "Velpearl Catalogue 2025–26",
+    "category": "Kitchen sinks",
+    "filename": "VELPEARL_CATALOGUE_2025-26_FINAL_ADDRESS-1.pdf",
+    "pages": 40
+  }
+]
