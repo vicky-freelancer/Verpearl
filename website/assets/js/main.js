@@ -248,6 +248,7 @@ if (hero) {
   function syncVideos() {
     videos.forEach((video, position) => {
       if (position === index) {
+        if (video.readyState < 2) video.load();
         const playPromise = video.play();
         if (playPromise && typeof playPromise.catch === "function") playPromise.catch(() => {});
       } else {
